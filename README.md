@@ -3,4 +3,8 @@
 同时，也是第一个网站
 
 2018.7.9重写首页代码
+
 发布 淡蓝的小站V2.1
+
+另外完整老站备份在此
+https:www.danlan.me/old/index.html
