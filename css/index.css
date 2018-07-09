@@ -1,0 +1,135 @@
+body {
+    border-top: rgba(0, 255, 255, 0.8) 10px solid;
+    background: url(img/background.jpg);
+    /* background-size: 100px; */
+}
+
+.bg-ex {
+    background-color: rgba(255, 255, 255, 0.7) !important
+}
+
+.astyle:hover{
+    text-decoration: none;
+    color: rgb(0, 200, 200);
+}
+
+.blog{
+    width: 1000px;
+    height: 1200px;
+    margin: 0 auto;
+}
+
+.blog-head {
+    margin-top: 15px;
+}
+
+nav{
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}
+
+#logo{
+    font-family:'xiaomaomi131f30ac8b1d707';
+    font-size:30px;
+    color: rgb(255, 0, 255);
+}
+
+.nownav{
+    background:  rgba(0, 255, 255, 0.5);
+    border: 1px solid rgba(0, 0, 0, .125)!important;
+    border-radius: .25rem
+}
+
+.ulex li a:hover {
+    background: rgba(0 , 255, 255, 0.5);
+    border-radius: .25rem
+}
+
+.blog-body{
+    height: 1000px;
+    margin-top: 20px;
+    /* background: rgba(100 , 100, 100, 0.5) */
+}
+
+.blog-body-left{
+    width: 720px;
+    height: 1000px;
+    float: left;
+    /* background: rgba(255, 0, 255,0.5) */
+}
+
+/* .blog-main1{
+
+} */
+
+.blog-main2{
+    margin-top: 20px;
+}
+
+/* .ba{
+    background:  rgba(255, 255, 255, 0.5) !important;
+} */
+
+.blog2{
+    margin-top: 20px;
+}
+
+.blog-body-right{
+    width: 280px;
+    height: 1000px;
+    float: right;
+    /* background: rgba(100, 0, 255,0.5); */
+}
+
+.blog-login{
+    width: 260px;
+    height: 320px;
+    padding: 10px;
+    float: right;
+}
+
+.dlbtn,
+.zcbtn {
+    margin-top: 8px;
+    height: 38px;
+    width: 238px;
+}
+
+.blog-weather {
+    width: 260px;
+    height: 340px;
+    margin-top: 30px;
+    float: right;
+    font-family: generic-family;
+    /* background: rgba(0 , 255, 255, 0.5); */
+}
+
+.nav2{
+    border: none;
+}
+
+.blog-clock{
+    width: 260px;
+    height: 275px;
+    margin-top: 30px;
+    float: right;
+    font-family: generic-family;
+    /* background: rgba(90 , 255, 255, 0.5); */
+}
+
+footer {
+    margin: 10px auto;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}
+
+footer p {
+    display: inline-block;
+    margin: 10px 0 0;
+}
+
+footer address {
+    margin: 0 0 10px;
+}
